@@ -1,0 +1,31 @@
+# Environment
+venv/
+.env
+*.env
+
+# Data files (optional - you might want to include sample data)
+data/*.db
+data/*.json
+data/*.csv
+
+# Logs
+logs/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

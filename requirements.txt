@@ -1,0 +1,11 @@
+requests==2.31.0
+pandas==2.0.3
+duckdb>=0.8.0
+apache-airflow==2.7.0
+dbt-core==1.5.4
+dbt-postgres==1.5.4
+streamlit==1.25.0
+boto3==1.28.57
+python-dotenv==1.0.0
+pydantic>=1.10.0,<2.0.0
+psycopg2-binary==2.9.7
