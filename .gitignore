@@ -5,8 +5,8 @@ venv/
 
 # Data files (optional - you might want to include sample data)
 data/*.db
-data/*.json
-data/*.csv
+
+
 
 # Logs
 logs/
